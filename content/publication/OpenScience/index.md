@@ -52,7 +52,7 @@ url_preprint = "https://osf.io/qdj4t"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+#vurl_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = "https://doi.org/10.1177/0022219420945267"

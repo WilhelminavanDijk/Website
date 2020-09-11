@@ -1,10 +1,10 @@
 +++
-title = "A Person Re-Identification System For Mobile Devices"
+title = "The Effect of Behavior and Classroom Management on Upper Elementary Students' Mathematics Achievement: A Multilevel Structural Equation Model."
 date = 2015-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen"]
+authors = ["W van Dijk", "NA Gage", N Grasley-Boy"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["GA Cushen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
-publication_short = "In *SITIS*"
+publication = "In *Psychology in the Schools*, IEEE."
+publication_short = "In *PITS*"
 
 # Abstract and optional shortened version.
-abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
+abstract = "The impact of teachers on their students’ academic achievement continues to be an area of inquiry. One area not fully explored is the relation between teachers’ behavior and classroom management (CM) skills, student motivation, and student achievement. We examined these relations using a multi‐level structural equation model. Data included Behavior Management subscale scores of the Classroom Assessment Scoring System for 247 fourth and fifth grade teachers, indicators of academic motivation, and end‐of‐year state standardized mathematics assessment results for 4,847 students from the National Center of Teacher Effectiveness Main Study. The results indicate teachers’ CM skills have a significant direct effect on student motivation and a significant indirect effect on students’ math achievement, suggesting that students in classrooms of teachers with better CM are more motivated to learn math and have higher math achievement scores. This underscores the importance of helping teachers increase their use of evidence‐based classroom management techniques."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -34,14 +34,14 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+#projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+#tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -56,16 +56,16 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1002/pits.22254"
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
+#[image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+ # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
