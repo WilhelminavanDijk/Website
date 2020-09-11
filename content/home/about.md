@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Reading Development",
+    "Quantitative Methodologies",
+    "Reading Instruction"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Special Education"
+  institution = "University of Florida"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MEd in Special Education"
+  institution = "East Tennessee State University"
+  year = 2014
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MA in Classical Languages and Culture"
+  institution = "University of Groningen"
+  year = 2005
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Willa van Dijk is a Dean's Postdoctoral Scholar in the department of Psychology at Florida State University, affiliated with the Florida Center for Reading Research. Her research focuses on understanding reading development in children and in particular, the reasons why some children struggle to learn to read and what we can do to prevent reading problems. She uses advanced statistical methodologies to examine data. Her current work focuses on using integrative data analysis to combine multiple independent data sets to examine individual differences in response to multi-component reading interventions. 
