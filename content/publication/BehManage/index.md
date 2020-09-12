@@ -1,6 +1,6 @@
 +++
 title = "The Effect of Behavior and Classroom Management on Upper Elementary Students' Mathematics Achievement: A Multilevel Structural Equation Model."
-date = 2015-09-01T00:00:00
+date = 2019
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -26,7 +26,7 @@ abstract = "The impact of teachers on their students’ academic achievement con
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

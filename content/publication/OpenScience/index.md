@@ -1,6 +1,6 @@
 +++
 title = "Open Science in Education Sciences"
-date = 2013-07-01T00:00:00
+date = 2020
 draft = false
 
 # Authors. Comma separated list, e.g. `["Wilhelmina van Dijk", "Christopher Schatschneider", "Sara A. Hart"]`.
