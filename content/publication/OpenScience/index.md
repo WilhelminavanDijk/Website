@@ -1,6 +1,6 @@
 +++
 title = "Open Science in Education Sciences"
-date = 2020
+date = 2020-00-00T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Wilhelmina van Dijk", "Christopher Schatschneider", "Sara A. Hart"]`.
@@ -18,8 +18,8 @@ authors = ["W van Dijk", "C Schatschneider", "SA Hart"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Learning Disabilities*."
-publication_short = "In *JLD*"
+publication = "*Journal of Learning Disabilities*, advance online."
+publication_short = "*JLD*"
 
 # Abstract and optional shortened version.
 abstract = "The Open Science movement has gained considerable traction in the last decade. The Open Science movement tries to increase trust in research results and open the access to all elements of a research project to the public. Central to these goals, Open Science has promoted five critical tenets: Open Data, Open Analysis, Open Materials, Preregistration, and Open Access. All Open Science elements can be thought of as extensions to the traditional way of achieving openness in science, which has been scientific publication of research outcomes in journals or books. Open Science in education sciences, however, has the potential to be much more than a safeguard against questionable research. Open Science in education science provides opportunities to (a) increase the transparency and therefore replicability of research and (b) develop and answer research questions about individuals with learning disabilities and learning difficulties that were previously impossible to answer due to complexities in data analysis methods. We will provide overviews of the main tenets of Open Science (i.e., Open Data, Open Analysis, Open Materials, Preregistration, and Open Access), show how they are in line with grant funding agencies’ expectations for rigorous research processes, and present resources on best practices for each of the tenets."
@@ -71,4 +71,4 @@ math = false
   focal_point = ""
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

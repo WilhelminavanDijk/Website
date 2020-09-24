@@ -1,6 +1,6 @@
 +++
 title = "The Effect of Behavior and Classroom Management on Upper Elementary Students' Mathematics Achievement: A Multilevel Structural Equation Model."
-date = 2019
+date = 2019-00-00T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["W van Dijk", "NA Gage", "N Grasley-Boy"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Psychology in the Schools*, IEEE."
+publication = "*Psychology in the Schools, 56*, 1173-1186."
 publication_short = "In *PITS*"
 
 # Abstract and optional shortened version.
@@ -72,4 +72,4 @@ math = false
   focal_point = ""
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+#More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
