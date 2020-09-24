@@ -46,19 +46,19 @@ url_code = ""
 # Does the content use math formatting?
 math = true
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# <<<<<<< HEAD
-[image]
-# =======
-[]
->>>>>>> 4ccf89089641aec17dd6d53f5e2f6316db43b709
-  # Caption (optional)
-  #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
+# # Featured image
+# # To use, add an image named `featured.jpg/png` to your page's folder. 
+# # <<<<<<< HEAD
+# [image]
+# # =======
+# []
+# >>>>>>> 4ccf89089641aec17dd6d53f5e2f6316db43b709
+#   # Caption (optional)
+#   #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+# 
+#   # Focal point (optional)
+#   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+#   focal_point = "Right"
 +++
 
 # {{% alert note %}}
